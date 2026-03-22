@@ -1,0 +1,21 @@
+
+
+node [nameFile] //Ejecucion individual
+
+
+.js -> Por defecto usa CommonJs
+.mjs -> para utilizar Es Modules
+.cjs -> para exportar CommoJs
+
+
+
+En Node.js se puede hacer 3 formas de ejecucion
+    *Sincrono
+    *Asincrono Secuencial
+    *Asincrono Paralelo
+
+El Sincrono es que va linea por linea hasta terminar de completar todo el codigo
+
+El Asincrono Secuencial es que va completando los procesos secuencialmente pero va liberando espacio para realizar otros procesos
+
+El Asincrono Paralelo los va realizando todos los procesos de una vez y presenta el que termina primeroS

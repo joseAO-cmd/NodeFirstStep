@@ -1,0 +1,7 @@
+
+
+npm init    -> Para crear el package json
+
+entry-point    -> Es el archivo que va levantar toda la api
+
+Licencia      -> ISC para uso libre del codigo
