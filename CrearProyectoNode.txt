@@ -20,6 +20,7 @@ Paquete Picocolors para el console log
 npm i standard -D      -> Nos ayuda a la hora del desarrollo por eso la D
 
 
+
 luego usar en el package.json
 
     eslintConfig {
