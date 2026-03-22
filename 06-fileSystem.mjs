@@ -1,13 +1,10 @@
-
-//Datos de los archivos del sistema
+// Datos de los archivos del sistema
 import fs from 'node:fs'
 
+const stats = fs.statSync('./infoNode.txt')
 
-    const stats = fs.statSync('./infoNode.txt')
+console.log(
 
-
-    console.log(
-
-        stats.isFile(),
-        stats.size()
-    )
+  stats.isFile(),
+  stats.size()
+)

@@ -19,3 +19,13 @@ El Sincrono es que va linea por linea hasta terminar de completar todo el codigo
 El Asincrono Secuencial es que va completando los procesos secuencialmente pero va liberando espacio para realizar otros procesos
 
 El Asincrono Paralelo los va realizando todos los procesos de una vez y presenta el que termina primeroS
+
+
+
+
+
+
+            npm
+Es un conjunto de registro de paquetes y tambien es una linea de comandos. 
+
+

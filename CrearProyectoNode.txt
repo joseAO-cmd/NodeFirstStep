@@ -5,3 +5,23 @@ npm init    -> Para crear el package json
 entry-point    -> Es el archivo que va levantar toda la api
 
 Licencia      -> ISC para uso libre del codigo
+
+
+
+
+
+    INSTALANDO DEPENDENCIAS DE npm
+
+npm i picocolors
+Paquete Picocolors para el console log
+
+
+
+npm i standard -D      -> Nos ayuda a la hora del desarrollo por eso la D
+
+
+luego usar en el package.json
+
+    eslintConfig {
+        extend : standard
+    }

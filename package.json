@@ -1,0 +1,34 @@
+{
+  "name": "package-lock",
+  "version": "1.0.0",
+  "description": "Este es una prueba de npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseAO-cmd/NodeFirstStep.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "firstStep"
+  ],
+  "author": "Jose Boanerges Alvarado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseAO-cmd/NodeFirstStep/issues"
+  },
+  "homepage": "https://github.com/joseAO-cmd/NodeFirstStep#readme",
+  "dependencies": {
+    "picocolors": "1.1.1"
+  },
+  "devDependencies": {
+    "standard": "^17.1.2"
+  },
+
+  "eslintConfig" : {
+    "extends": "standard"
+  }
+}
